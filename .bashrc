@@ -1,10 +1,8 @@
-#
 # ~/.bashrc
-#
-
 
 export EDITOR=/usr/bin/vim
 
+#Go (golang) configuration
 export GOPATH=~/go
 export PATH=$PATH:$GOPATH/bin
 
